@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/milana_demo/static/css/main.602c51b6.css",
+    "main.css": "/milana_demo/static/css/main.31489d41.css",
     "main.js": "/milana_demo/static/js/main.92560db7.js",
     "static/media/Inter-ExtraBold.ttf": "/milana_demo/static/media/Inter-ExtraBold.e4f33c213728ecf55b57.ttf",
     "static/media/Inter-Black.ttf": "/milana_demo/static/media/Inter-Black.4687db66d316ec27374b.ttf",
@@ -22,11 +22,11 @@
     "static/media/profile.svg": "/milana_demo/static/media/profile.817a24d7675dea7d76247f71baa7486e.svg",
     "static/media/arrow.svg": "/milana_demo/static/media/arrow.db476f6dfb5e6b57d24d09ea70c00e10.svg",
     "index.html": "/milana_demo/index.html",
-    "main.602c51b6.css.map": "/milana_demo/static/css/main.602c51b6.css.map",
+    "main.31489d41.css.map": "/milana_demo/static/css/main.31489d41.css.map",
     "main.92560db7.js.map": "/milana_demo/static/js/main.92560db7.js.map"
   },
   "entrypoints": [
-    "static/css/main.602c51b6.css",
+    "static/css/main.31489d41.css",
     "static/js/main.92560db7.js"
   ]
 }
