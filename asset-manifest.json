@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/milana_demo/static/css/main.602c51b6.css",
+    "main.js": "/milana_demo/static/js/main.92560db7.js",
+    "static/media/Inter-ExtraBold.ttf": "/milana_demo/static/media/Inter-ExtraBold.e4f33c213728ecf55b57.ttf",
+    "static/media/Inter-Black.ttf": "/milana_demo/static/media/Inter-Black.4687db66d316ec27374b.ttf",
+    "static/media/Inter-Bold.ttf": "/milana_demo/static/media/Inter-Bold.9aab1ebe6bd16660e37e.ttf",
+    "static/media/Inter-SemiBold.ttf": "/milana_demo/static/media/Inter-SemiBold.1616d5720720a412cfc8.ttf",
+    "static/media/Inter-Medium.ttf": "/milana_demo/static/media/Inter-Medium.9d1fd4235eeb376c5f96.ttf",
+    "static/media/Inter-ExtraLight.ttf": "/milana_demo/static/media/Inter-ExtraLight.505cb3db0e7c094a9e11.ttf",
+    "static/media/Inter-Light.ttf": "/milana_demo/static/media/Inter-Light.185c75d22f414005c8b1.ttf",
+    "static/media/Inter-Regular.ttf": "/milana_demo/static/media/Inter-Regular.b559a93b35af397f4b6f.ttf",
+    "static/media/Verdana.ttf": "/milana_demo/static/media/Verdana.06356c47838279a6fe85.ttf",
+    "static/media/content 3.png": "/milana_demo/static/media/content 3.93172b9449b37f35e66a.png",
+    "static/media/content 2.png": "/milana_demo/static/media/content 2.a82c459c1ff22e321720.png",
+    "static/media/content 1.png": "/milana_demo/static/media/content 1.333d19007e4d25d35b95.png",
+    "static/media/sl3.png": "/milana_demo/static/media/sl3.52a4ab9b26ea4c1cb8cf.png",
+    "static/media/sl1.png": "/milana_demo/static/media/sl1.7af06c7b938fbcbf07ae.png",
+    "static/media/sl2.png": "/milana_demo/static/media/sl2.e227e46463bf26395cd8.png",
+    "static/media/logo.svg": "/milana_demo/static/media/logo.7392f7efe0add0287c73b4f74d4b7d91.svg",
+    "static/media/cart.svg": "/milana_demo/static/media/cart.9e2750f3d3e91bd442cbeb1eccc949ed.svg",
+    "static/media/profile.svg": "/milana_demo/static/media/profile.817a24d7675dea7d76247f71baa7486e.svg",
+    "static/media/arrow.svg": "/milana_demo/static/media/arrow.db476f6dfb5e6b57d24d09ea70c00e10.svg",
+    "index.html": "/milana_demo/index.html",
+    "main.602c51b6.css.map": "/milana_demo/static/css/main.602c51b6.css.map",
+    "main.92560db7.js.map": "/milana_demo/static/js/main.92560db7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.602c51b6.css",
+    "static/js/main.92560db7.js"
+  ]
+}
